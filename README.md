@@ -1,2 +1,1 @@
-# carrito-mysql
- el carrito de compras
+Carrito de compras con MySQL y PHP 
